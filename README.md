@@ -18,3 +18,6 @@ para la aplicación de nuestro curso.
 En la carpeta App encontrarás la aplicación en React.js que creamos para
 la aplicación de nuestro curso. Si necesitas más información sobre el
 código puedes encontrarla en el README.md dentro de esa carpeta.
+
+#NOTAS DEL CURSO
+LINK: https://docs.google.com/document/d/1mdDTm8WWE-JOYOA4ebJyU1wGN5n1S7wpz9e2GQCx7iQ/edit?usp=sharing
